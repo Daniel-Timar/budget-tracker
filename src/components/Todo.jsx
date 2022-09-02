@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { v4 as uuidV4 } from "uuid";
 import styled from "styled-components";
 import { TiDelete } from "react-icons/ti";
-// import { SiTodoist } from "react-icons/si";
+// import { SiTodoist } from "react-icons/si" ;
 import { cardStyle } from "./ReusableStyles";
 import { MdAddTask } from "react-icons/md";
 import { VscSymbolEvent } from "react-icons/vsc";
